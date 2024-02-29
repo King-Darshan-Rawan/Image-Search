@@ -1,6 +1,6 @@
 # Image Search Engine
 
-Welcome to the Image Search Engine repository! This project contains the source code for an image search engine built with the help of the Unsplash API.
+Welcome to the Image Search repository! This project contains the source code for an image search engine built with the help of the Unsplash API.
 
 ## Overview
 
@@ -41,6 +41,10 @@ To run the Image Search Engine locally, follow these steps:
 - **Searching for Images**: Enter keywords or phrases into the search bar and press enter to retrieve images related to your search.
 - **Viewing Images**: Scroll through the search results to view the images returned by the Unsplash API.
 
+## Responsive Design
+
+The Image Search Engine is designed to be responsive, ensuring optimal viewing and usability across various devices, including desktops, tablets, and smartphones.
+
 ## API Integration
 
 This project integrates with the Unsplash API to fetch image data based on user queries. To use the Unsplash API in your own projects, you'll need to sign up for an account and obtain an API key. Replace the placeholder API key in the `imagesAi.js` file with your own API key to use the Unsplash API.
@@ -51,6 +55,6 @@ Contributions are welcome! If you find any bugs, have suggestions for improvemen
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact me at darshanmalviya9826@gmail.com.
+If you have any questions or feedback, feel free to contact me at [darshanmalviya9826@gmail.com].
 
 Thank you for checking out the Image Search Engine project!
